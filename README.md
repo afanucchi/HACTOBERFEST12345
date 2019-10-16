@@ -1,3 +1,4 @@
-# HACTOBERFEST12345
-code yourself
-print hello world in your favourate languaage
+# HACTOBERFEST19
+
+* Code yourself
+* Print "hello world" in your favourite language, and contribute to the project!
